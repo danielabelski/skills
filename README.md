@@ -12,7 +12,7 @@
 [![Static Badge](https://img.shields.io/badge/Hermes_Agent-compatible-yellow)](https://hermes-agent.nousresearch.com/)
 
 
-Turn your AI agent into a personal AI CFO. [Minara](https://minara.ai) skills give your agent the ability to analyze and trade crypto, US stocks, commodities, forex, and more. Execute on-chain transactions, manage wallets, and get real-time market intelligence across EVM, Solana, and Hyperliquid.
+[Minara](https://minara.ai) skills turn your AI agent into an AI-native financial OS. Trade crypto, US stocks, commodities, and forex; execute on-chain transactions, manage wallets, and get real-time market intelligence across EVM, Solana, and Hyperliquid.
 
 <div align="center">
 
