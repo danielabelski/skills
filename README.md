@@ -20,11 +20,11 @@
 
 <p align="center">
   <a href="https://www.anthropic.com/product/claude-code" title="Claude Code"><img src="assets/claudecode-color.png" alt="Claude Code" height="56"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://openai.com/codex" title="Codex"><img src="assets/codex-logo.svg" alt="Codex" height="56"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://hermes-agent.nousresearch.com/" title="Hermes Agent"><img src="assets/hermes-logo.svg" alt="Hermes Agent" height="56"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://openclaw.ai/" title="OpenClaw"><img src="assets/openclaw-logo.png" alt="OpenClaw" height="56"></a>
 </p>
 
