@@ -23,7 +23,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://openai.com/codex" title="Codex"><img src="assets/codex-logo.svg" alt="Codex" height="56"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://hermes-agent.nousresearch.com/" title="Hermes Agent"><img src="assets/hermes-logo.png" alt="Hermes Agent" height="56"></a>
+  <a href="https://hermes-agent.nousresearch.com/" title="Hermes Agent"><img src="assets/hermes-logo.svg" alt="Hermes Agent" height="56"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://openclaw.ai/" title="OpenClaw"><img src="assets/openclaw-logo.png" alt="OpenClaw" height="56"></a>
 </p>
