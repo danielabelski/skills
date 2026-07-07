@@ -222,6 +222,7 @@ This repo contains documentation files and setup scripts. No binaries or long-ru
 
 - [Minara](https://minara.ai)
 - [Minara CLI (npm)](https://www.npmjs.com/package/minara)
+- [Discord](https://discord.com/invite/minaraai)
 - [OpenClaw Skills](https://docs.openclaw.ai/tools/skills)
 - [ClawHub](https://clawhub.ai)
 
