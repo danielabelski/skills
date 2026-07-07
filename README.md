@@ -4,12 +4,16 @@
   <img src="assets/minara_banner.png" alt="Xneuro" width=100% style="display: block;">
 </div>
 
+<div align="center">
+
 [![version](https://img.shields.io/github/v/release/Minara-AI/skills)](https://github.com/Minara-AI/skills/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Benchmark](https://img.shields.io/badge/benchmark-88%2F100-brightgreen)](https://github.com/Minara-AI/crypto-skill-benchmark)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-compatible-blueviolet)](https://claude.com/claude-code)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-blue)](https://docs.openclaw.ai/tools/skills)
 [![Static Badge](https://img.shields.io/badge/Hermes_Agent-compatible-yellow)](https://hermes-agent.nousresearch.com/)
+
+</div>
 
 
 [Minara](https://minara.ai) is an AI-native financial OS, and these skills bring it into your agent. Trade US and Korean stocks, futures, indices, commodities, forex, and crypto in plain language. Run on-chain transactions, manage wallets, and get real-time market data across EVM, Solana, and Hyperliquid.
