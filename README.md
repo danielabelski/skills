@@ -224,6 +224,7 @@ This repo contains documentation files and setup scripts. No binaries or long-ru
 - [Discord](https://discord.com/invite/minaraai)
 - [Minara](https://minara.ai)
 - [Minara CLI (npm)](https://www.npmjs.com/package/minara)
+- [Crypto Skill Benchmark](https://github.com/Minara-AI/crypto-skill-benchmark)
 - [OpenClaw Skills](https://docs.openclaw.ai/tools/skills)
 - [ClawHub](https://clawhub.ai)
 
