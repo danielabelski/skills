@@ -211,6 +211,7 @@ See [examples.md](skills/minara/references/examples.md) for full CLI examples.
 | `scripts/openclaw-minara-skill-setup.sh`     | One-click installer for OpenClaw: installs CLI, copies skill, registers in `openclaw.json`, runs login |
 | `scripts/hermes-minara-skill-setup.sh`       | One-click installer for Hermes: installs CLI, copies skill, runs login                                |
 | `skills/minara/scripts/version-check.sh`     | Session-level version detector — outputs `UP_TO_DATE`, `SNOOZED`, or `UPGRADE cli:X→Y [skill:X→Y]`     |
+| `scripts/gen-star-history.py`                | Regenerates `assets/star-history.svg` from live stargazer data (needs `gh` authed). Run, then commit.  |
 
 All setup scripts are idempotent and support the same three-tier skill download fallback: ClawHub → GitHub → clawhub CLI.
 
